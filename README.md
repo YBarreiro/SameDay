@@ -1,5 +1,10 @@
 # SameDay-Diary
 
+This project was developed as my Final Project for the "CFGS Desarrollo de aplicaciones multiplataforma" (i.e., Advanced Diploma in "Development of Multiplatform Applications").
+
+SameDay is a desktop application designed to help users keep a personal diary...
+
+
 **Description**  
 SameDay is a desktop application designed to help users maintain a personal diary. Its main feature allows users to view all entries of the current day across previous years. For example, opening the app on June 5th, 2025, will display entries written on June 5th of 2024, 2023, and so on — hence the slogan: *One day, many years*.  
 
