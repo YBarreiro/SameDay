@@ -16,3 +16,12 @@ SameDay is a desktop application designed to help users maintain a personal diar
 - Applied programming concepts learned in the CFGS Desarrollo de Aplicaciones Multiplataforma.  
 - Gained experience in GUI development and managing user input.  
 - Implemented basic data storage and retrieval techniques.  
+
+**How to run the application**
+*Requirements: Java JDK installed (version 11 or higher).*
+
+1. Download or clone the repository.
+2. Open the project in a Java IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Compile the source files.
+4. Run `Main.java` to launch the application.
+
