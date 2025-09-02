@@ -1,6 +1,6 @@
-# SameDay
+# SameDay - Un día, muchos años
 
-SameDay es una aplicación de escritorio desarrollada como proyecto final del CFGS en Desarrollo de Aplicaciones Multiplataforma. Su objetivo es ayudar a los usuarios a mantener un diario personal, permitiendo visualizar las entradas escritas en el mismo día de años anteriores y asociar cada entrada a un estado emocional.
+SameDay es una aplicación de escritorio desarrollada como proyecto final del CFGS en Desarrollo de Aplicaciones Multiplataforma. Su objetivo es ayudar a los usuarios a mantener un diario personal, permitiendo visualizar las entradas escritas en el mismo día de años anteriores (de ahí su eslogan "Un día, muchos años") y asociar cada entrada a un estado emocional.
 
 ## Funcionalidades principales
 
