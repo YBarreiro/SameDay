@@ -25,10 +25,6 @@ SameDay es una aplicación de escritorio desarrollada como proyecto final del CF
 - `sameday.db` · Base de datos generada automáticamente al ejecutar la aplicación
 - `sameday.exe` · Ejecutable para sistemas Windows
 
-## Documentación
-
-La memoria técnica del proyecto está disponible [aquí](enlace si la subes al repo o a Drive).
-
 ## Cómo ejecitar la aplicación
 
 SameDay es una aplicación local para Windows. No requiere instalación, solo ejecutar el archivo `.exe`. Es necesario tener Java instalado en el equipo.
